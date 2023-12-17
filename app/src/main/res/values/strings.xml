@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab8</string>
+    <string name="bmw">BMW</string>
+    <string name="mercedes_benz">Mercedes-Benz</string>
+    <string name="kia">KIA</string>
+    <string name="hyundai">Hyundai</string>
+    <string name="lada">Lada</string>
+    <string name="land_rover">Land Rover</string>
+</resources>
